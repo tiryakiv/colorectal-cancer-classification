@@ -6,6 +6,6 @@ LEARNING". The conference paper is accessible from the following link:
 
 https://www.researchgate.net/publication/358699800_Kolorektal_kanser_histolojik_goruntulerinin_derin_ogrenme_ile_siniflandirilmasi
 
-If you find the methods, useful please consider citing our work.
+If you find the methods useful, please consider citing our work.
 
 The Authors
